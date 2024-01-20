@@ -4,7 +4,7 @@ on:
     workflows: [Repository Events]
     types: [completed]
     branches:
-      - feature1
+      - fearute1
 jobs:
   echo-string:
     runs-on: ubuntu-latest
